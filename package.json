@@ -1,32 +1,21 @@
 {
-  "name": "@sinusbot-scripts/sinusbot-support",
-  "version": "2.2.3",
-  "description": "This script powers the SinusBot Support Discord Server.",
-  "main": "discord-sinusbot.js",
+  "name": "@sinusbot-scripts/reconnect",
+  "version": "1.0.0",
+  "description": "This script reconnects the SinusBot automatically.",
+  "main": "reconnect.js",
   "scripts": {
     "test": "node dummy-test.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sinusbot-scripts/sinusbot-support.git"
+    "url": "git+https://github.com/sinusbot-scripts/reconnect.git"
   },
-  "contributors": [
-    {
-      "name": "Andreas Fink",
-      "email": "andreas@andreasfink.xyz",
-      "url": "https://github.com/AFink"
-    },
-    {
-      "name": "Lala Sabathil",
-      "email": "aiko@aitsys.dev",
-      "url": "https://github.com/Lulalaby"
-    }
-  ],
+  "author": "Lala Sabathil <aiko@aitsys.dev>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sinusbot-scripts/sinusbot-support/issues"
+    "url": "https://github.com/sinusbot-scripts/reconnect/issues"
   },
-  "homepage": "https://github.com/sinusbot-scripts/sinusbot-support#readme",
+  "homepage": "https://github.com/sinusbot-scripts/reconnect#readme",
   "devDependencies": {
     "sinusbot-scripting-engine": "^1.0.18"
   }

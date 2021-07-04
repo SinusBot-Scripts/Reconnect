@@ -1,11 +1,11 @@
-[![Package CI/CD](https://github.com/SinusBot-Scripts/SinusBot-Support/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/SinusBot-Scripts/SinusBot-Support/actions/workflows/npm-publish.yml)
-[![CodeQL](https://github.com/SinusBot-Scripts/SinusBot-Support/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/SinusBot-Scripts/SinusBot-Support/actions/workflows/codeql-analysis.yml)
-![Version](https://img.shields.io/github/package-json/v/sinusbot-scripts/sinusbot-support)
-![npm (scoped)](https://img.shields.io/npm/v/@sinusbot-scripts/sinusbot-support)
+[![Package CI/CD](https://github.com/SinusBot-Scripts/Reconnect/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/SinusBot-Scripts/Reconnect/actions/workflows/npm-publish.yml)
+[![CodeQL](https://github.com/Reconnect/SinusBot-Support/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/SinusBot-Scripts/Reconnect/actions/workflows/codeql-analysis.yml)
+![Version](https://img.shields.io/github/package-json/v/sinusbot-scripts/reconnect)
+![npm (scoped)](https://img.shields.io/npm/v/@sinusbot-scripts/reconnect)
 
-# SinusBot Support Discord - Tools
+# Reconnect
 
-This script powers the SinusBot Support Discord Server.
+This script reconnects the SinusBot automatically.
 
 Wanna join?
 
