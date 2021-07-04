@@ -1,6 +1,6 @@
 {
   "name": "@sinusbot-scripts/reconnect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This script reconnects the SinusBot automatically.",
   "main": "reconnect.js",
   "scripts": {
